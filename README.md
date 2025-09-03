@@ -50,5 +50,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vagnersouza2313j@gmail.com)  
 
 ---
-
-⭐ Se curtir meus projetos, deixe uma estrela nos repositórios!
