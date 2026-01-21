@@ -3,7 +3,7 @@
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=000000&center=true&vCenter=true&width=500&lines=Vagner+Souza)
 
 
-💻 Atualmente iniciando meus estudos em **Java** , **Spring Boot** e relacionais.  
+**Java** , **Spring Boot** e relacionais.  
 
 ---
 
