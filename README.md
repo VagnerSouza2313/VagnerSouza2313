@@ -1,16 +1,10 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=000000&center=true&vCenter=true&width=500&lines=Vagner+Souza)
----
-<div>
+</br>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW80Y2dycHJvZWUwaG42Zm9kbGowaDBqNG55cDQ5cGNvbTA1MW1xMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1229mlttgo8aR2/giphy.gif" 
+     width="200" 
+     style="display:block; margin-left:auto;" />
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,mysql)](https://skillicons.dev)
 
-</br>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW80Y2dycHJvZWUwaG42Zm9kbGowaDBqNG55cDQ5cGNvbTA1MW1xMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1229mlttgo8aR2/giphy.gif" 
-     width="120" 
-     style="display:block; margin-left:auto;" />
-
-</div>
-<div>
 
 ### Contribuições
 <picture>
