@@ -1,9 +1,7 @@
-</br>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW80Y2dycHJvZWUwaG42Zm9kbGowaDBqNG55cDQ5cGNvbTA1MW1xMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1229mlttgo8aR2/giphy.gif" 
-     width="200" 
-     style="display:block; margin-left:auto;" />
+**Back-end Developer | Software Engineering**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,mysql)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,mysql,postgresql,git,github,firebase&perline=4)](https://skillicons.dev)
 
 
 ### Contribuições
