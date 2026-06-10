@@ -1,4 +1,4 @@
-**Back-end Developer | Software Engineering**
+**Back-end Java Developer | Software Engineering**
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,mysql,postgresql,git,github,firebase&perline=4)](https://skillicons.dev)
