@@ -6,7 +6,7 @@
 
 Building backend applications with Java and Spring Boot.
 
-[LinkedIn](https://www.linkedin.com/in/vagner-souza-67a8983a4/) · [GitHub](https://github.com/VagnerSouza2313)
+[LinkedIn](https://www.linkedin.com/in/vagner-souza-67a8983a4/) · vagnersouza2313vj@gmail.com
 
 </div>
 
